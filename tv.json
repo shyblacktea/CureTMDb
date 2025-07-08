@@ -1,0 +1,62 @@
+{
+  "223564": {
+    "name": "超超超超超喜欢你的100个女朋友",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 12
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 12
+      }
+    ]
+  },
+  "220542": {
+    "name": "药屋少女的呢喃",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 24
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 24
+      }
+    ]
+  },
+  "240411": {
+    "name": "胆大党",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 12
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 12
+      }
+    ]
+  },
+  "123249": {
+    "name": "更衣人偶坠入爱河",
+    "seasons": [
+      {
+        "season_number": 1,
+        "name": "第一季",
+        "episode_count": 12
+      },
+      {
+        "season_number": 2,
+        "name": "第二季",
+        "episode_count": 12
+      }
+    ]
+  }
+}
